@@ -1,1 +1,1 @@
-# python_app
+# statistics app
