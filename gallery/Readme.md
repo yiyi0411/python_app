@@ -1,1 +1,0 @@
-## Python Galleray app
