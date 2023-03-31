@@ -8,7 +8,7 @@ In this repository we have
 * Web Scraper API & Dashboard
 * Desktop Monitor App  
 ## Reference
-Thanks for SpinnTV
+The base app and design is based on SpinnTV's tutorial. The individual features are self-developed over time.
 * Web Scraper API & Dashboard
   * https://www.youtube.com/watch?v=20ed0Ytkxuw&ab_channel=SpinnTV
   * https://www.youtube.com/watch?v=xAPHzRdWX0g&t=0s&ab_channel=SpinnTV
